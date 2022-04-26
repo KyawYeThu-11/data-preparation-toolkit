@@ -2,7 +2,7 @@
 
 ## Description
 
-This toolkit contains three separate programs to help with preparing data for text-to-speech projects. They are
+This toolkit is intended to help preparing data for several machine learning projects, albeit only containing three separate programs for data preparation for text-to-speech projects. They are
 
 - renaming program (`rename.py`)
 - formatting program (`format.py`)
